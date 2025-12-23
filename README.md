@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<上課你準備好了嗎?>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
@@ -63,7 +63,7 @@
   <h3>📌 課程提醒事項</h3>
   <ol>
     <li class="note">1/5（一）18:00 前於 Line 群組回報是否上山</li>
-    <li class="note">"note">取消上山者，費用轉為護持寶雲寺基</li>
+    <li class="note">取消上山者，費用轉為護持寶雲寺基</li>
     <li>集合時間：AM 5:20（寶雲寺對面慢車道上車）</li>
     <li>課程提供早餐、午齋(好收納即可)、藥石(有蓋可扣緊，貼上組別＋姓名，請勿使用矽膠材質）</li>
   </ol>
