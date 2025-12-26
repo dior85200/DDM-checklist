@@ -72,7 +72,7 @@
   <ul>
     <li><label><input type="checkbox"><span>平底鞋</span></label></li>
     <li><label><input type="checkbox"><span>後背式背包</span></label></li>
-    <li><label><input type="checkbox"><span>保暖小物</span></label></li>
+    <li><label><input type="checkbox"><span>保暖小物 (毛帽、圍巾、手套、暖暖包) </span></label></li>
   </ul>
 
   <h3>🎒 學員自備物品</h3>
