@@ -85,7 +85,7 @@
       <label>
         <input type="checkbox">
         <span>
-          藥石空便當盒（上車後統一收進整理箱，需可堆疊）
+          藥石空便當盒（上車時統一收進整理箱，需可堆疊）
         </span>
       </label>
     </li>
