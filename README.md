@@ -70,8 +70,8 @@
 
   <h3>👕 服裝準備</h3>
   <ul>
-    <li><label><input type="checkbox"><span>平底鞋</span></label></li>
-    <li><label><input type="checkbox"><span>後背式背包</span></label></li>
+    <li><label><input type="checkbox"><span>平底鞋(一定要好走，會大菩薩們參觀總本山)  </span></label></li>
+    <li><label><input type="checkbox"><span>後背式背包 (避免大包小包，一個包包拎了就走)  </span></label></li>
     <li><label><input type="checkbox"><span>保暖小物 (毛帽、圍巾、手套、暖暖包) </span></label></li>
   </ul>
 
