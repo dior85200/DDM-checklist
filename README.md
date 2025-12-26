@@ -89,7 +89,7 @@
         </span>
       </label>
     </li>
-    <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（擇一或皆可）</span></label></li>
+    <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（為方便行動，不用傘）</span></label></li>
     <li><label><input type="checkbox"><span>外套</span></label></li>
     <li><label><input type="checkbox"><span>健保卡</span></label></li>
     <li><label><input type="checkbox"><span>個人用藥</span></label></li>
