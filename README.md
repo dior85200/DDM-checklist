@@ -65,12 +65,12 @@
     <li >1/5（一）18:00 前於 Line 群組回報是否上山</li>
     <li >取消上山者，費用將轉為護持寶雲寺護持功德金</li>
     <li>集合時間：AM 5:20（寶雲寺對面慢車道上車） AM 5:30準時發車</li>
-    <li>課程提供早餐、午齋(好收納即可)、藥石(有蓋可扣緊，貼上組別＋姓名，請勿使用矽膠材質）</li>
+    <li>課程提供早餐、午齋(好收納即可)、藥石(有蓋可扣緊，貼上組別＋姓名，請勿用雙層、有內層、玻璃材質）</li>
   </ol>
 
   <h3>👕 服裝準備</h3>
   <ul>
-    <li><label><input type="checkbox"><span>平底鞋(一定要好走的鞋，會讓菩薩們參觀總本山)  </span></label></li>
+    <li><label><input type="checkbox"><span>好走路鞋子(一定要好走的鞋，會讓菩薩們參觀總本山)  </span></label></li>
     <li><label><input type="checkbox"><span>後背式背包 (避免大包小包，一個包包拎了就走)  </span></label></li>
     <li><label><input type="checkbox"><span>保暖小物 (毛帽、圍巾、手套、暖暖包) </span></label></li>
   </ul>
@@ -85,7 +85,7 @@
       <label>
         <input type="checkbox">
         <span>
-          藥石空便當盒（上車時統一收進整理箱，需可堆疊）
+          藥石空便當盒（上車時統一收進整理箱，需可堆疊，勿用雙層、有內層、玻璃材質）
         </span>
       </label>
     </li>
