@@ -67,12 +67,23 @@
   <li>
     集合時間：
     <ul>
-      <li>第 1、3、4 車：AM 5:20（寶雲寺對面慢車道）</li>
-      <li>第 2 車（寶雲寺）：AM 5:10（寶雲寺對面慢車道）</li>
-      <li>第 2 車（豐原）：AM 5:40（豐原全國加油站）</li>
+     <ol>
+  <li>1/5（一）18:00 前於 Line 群組回報是否上山</li>
+  <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
+  <li>
+    集合時間：
+    <ul>
+      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
+      <li><strong style="color:red;">第 2 車</strong>（寶雲寺）：AM 5:10（寶雲寺對面慢車道）</li>
+      <li><strong style="color:red;">第 2 車</strong>（<strong style="color:red;">豐原全國加油站</strong>）：AM 5:40</li>
     </ul>
   </li>
   <li>課程提供早餐、午齋（好收納即可）、藥石（有蓋可扣緊，貼上組別＋姓名，請勿用雙層、有內層、玻璃材質）</li>
+</ol>
+
+    </ul>
+  </li>
+  <li>課程提供早餐、午齋（好收納即可）、藥石（有蓋可扣緊，貼上組別＋姓名，請勿用矽膠、雙層、有內層、玻璃材質）</li>
 </ol>
 
 
@@ -93,14 +104,14 @@
       <label>
         <input type="checkbox">
         <span>
-          藥石空便當盒（上車時統一收進整理箱，需可堆疊，勿用雙層、有內層、玻璃材質）
+          藥石空便當盒（上車時統一收進整理箱，需可堆疊勿用矽膠，勿用雙層、有內層、玻璃材質）
         </span>
       </label>
     </li>
     <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（為方便行動，不用傘）</span></label></li>
     <li><label><input type="checkbox"><span>外套</span></label></li>
     <li><label><input type="checkbox"><span>健保卡</span></label></li>
-    <li><label><input type="checkbox"><span>個人用藥</span></label></li>
+    <li><label><input type="checkbox"><span>個人用藥(含暈車藥)</span></label></li>
   </ul>
 
   <h3>🚌 交通費用與私人車輛停放</h3>
