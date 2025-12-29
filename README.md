@@ -73,7 +73,7 @@
           AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
         </li>
         <li>
-          <strong style="color:red;">第 2 車</strong>（豐原）：
+          <strong style="color:red;">第 2 車</strong>（豐    原）：
           AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
         </li>
       </ul>
