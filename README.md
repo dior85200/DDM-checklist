@@ -110,7 +110,8 @@
     <li><label><input type="checkbox"><span>豐原全國加油站（自行處理）</span></label></li>
   </ul>
 
-</div>
 
+<button onclick="document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked=false)">清除所有勾選</button>
+</div>
 </body>
 </html>
