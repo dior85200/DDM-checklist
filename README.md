@@ -84,7 +84,7 @@
     <ul>
       <li>提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊）</li>
       <li>
-        <span style="color: #555;">容器規範：</span>
+        <span style="color: #555;">藥石容器規範請注意：</span>
         <ul>
           <li>請貼上「組別＋姓名」</li>
           <li><strong>請勿使用雙層、有內層、玻璃材質</strong></li>
