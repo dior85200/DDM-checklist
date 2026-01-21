@@ -64,23 +64,35 @@
   <ol>   
     <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
     <li>
-      集合時間：
-      <ul>
-        <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
-        <li>
-          <strong style="color:red;">第 2 車</strong>（寶雲寺）：
-          AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
-        </li>
-        <li>
-          <strong style="color:red;">第 2 車</strong>（豐    原）：
-          AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
-        </li>
-      </ul>
-    </li>
-    <li>
-      課程提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊)
-      </ul>(貼上組別＋姓名，請勿用雙層、有內層、玻璃材質）</ul>
-
+<ul>
+  <li>
+    <strong>集合時間：</strong>
+    <ul>
+      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
+      <li>
+        <strong style="color:red;">第 2 車</strong>（寶雲寺）：
+        AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
+      </li>
+      <li>
+        <strong style="color:red;">第 2 車</strong>（豐 原）：
+        AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
+      </li>
+    </ul>
+  </li>
+  <li>
+    <strong>用餐資訊：</strong>
+    <ul>
+      <li>提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊）</li>
+      <li>
+        <span style="color: #555;">容器規範：</span>
+        <ul>
+          <li>請貼上「組別＋姓名」</li>
+          <li><strong>請勿使用雙層、有內層、玻璃材質</strong></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
   </ol>
 
   <h3>👕 服裝準備</h3>
