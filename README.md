@@ -110,7 +110,7 @@
 
   <h3>🚌 交通費用與私人車輛停放</h3>
   <ul>
-    <li><label><input type="checkbox"><span>未繳車資者，車上收取 800 元</span></label></li>
+    <li><label><input type="checkbox"><span>未繳車資者，車上收取 800 元包含：車資、保險、飯捲及護持道場（總本山及寶雲寺）</span></label></li>
     <li><label><input type="checkbox"><span>寶雲寺（自行處理）</span></label></li>
     <li><label><input type="checkbox"><span>豐原全國加油站（自行處理）</span></label></li>
   </ul>
