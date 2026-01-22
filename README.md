@@ -8,7 +8,7 @@
     body {
       font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
       /* 背景底圖 */
-      background-image: url('https://www.taiwantravelmap.com/images/attractions/714/714_1_750.jpg');
+      background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M029788458513049105/01-P74120160924010001s.jpg');
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
