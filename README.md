@@ -57,16 +57,38 @@
   <h2>第6堂「體驗法鼓山」行前確認清單</h2>
 
   <h3>📌 課程提醒事項</h3>
-  <ol>
-    <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
-    <li><strong>集合時間：</strong>
-      <ul>
-        <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
-        <li><strong style="color:red;">第 2 車</strong>：AM 5:10（寶雲寺）/ AM 5:40（豐原全國加油站）</li>
-      </ul>
-    </li>
-    <li><strong>用餐資訊：</strong> 提供早餐、午齋、藥石。容器請貼姓名，<strong>嚴禁玻璃/雙層/內層材質</strong>。</li>
-  </ol>
+<ol>
+  <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
+
+  <li>
+    <strong>集合時間：</strong>
+    <ul>
+      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
+      <li>
+        <strong style="color:red;">第 2 車</strong>（寶雲寺）：
+        AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
+      </li>
+      <li>
+        <strong style="color:red;">第 2 車</strong>（豐 原）：
+        AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>用餐資訊：</strong>
+    <ul>
+      <li>提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊）</li>
+      <li>
+        <span style="color: #555;">容器規範請注意：</span>
+        <ul>
+          <li>請貼上「組別＋姓名」</li>
+          <li><strong>請勿使用雙層、有內層、玻璃材質</strong></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
 
   <h3>👕 服裝準備</h3>
   <ul>
