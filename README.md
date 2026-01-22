@@ -4,25 +4,15 @@
   <meta charset="UTF-8">
   <title>法鼓山體驗法鼓山－行前確認清單</title>
   <style>
-    body {
-      font-family: "Noto Sans TC", Arial, sans-serif;
-      background-color: #f5f5f5;
-      padding: 20px;
-      line-height: 1.8;
-    }
-
-    h1, h2 {
-      color: #3a3a3a;
-    }
-
-    .card {
-      background: #ffffff;
-      border-radius: 10px;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
+body {
+  background-image: url(https://www.taiwantravelmap.com/taiwantravelmap/travel-714#gallery-1);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.card {
+  background: rgba(255, 255, 255, 0.9); /* 讓卡片半透明，透出背景 */
+}
 
     ul {
       list-style: none;
