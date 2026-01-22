@@ -1,4 +1,4 @@
-<!-- 上課你準備好了嗎? -->
+<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
@@ -7,8 +7,8 @@
   <style>
     body {
       font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
-      /* 使用你提供的網頁中的底圖網址 */
-      background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M029788458513049105/01-P74120160924010001s.jpg');
+      /* 背景底圖 */
+      background-image: url('https://www.taiwantravelmap.com/images/attractions/714/714_1_750.jpg');
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
@@ -16,10 +16,8 @@
       padding: 20px;
       line-height: 1.8;
     }
-
-    /* 增加一個毛玻璃效果的卡片容器 */
     .card {
-      background: rgba(255, 255, 255, 0.9);
+      background: rgba(255, 255, 255, 0.95);
       backdrop-filter: blur(5px);
       border-radius: 15px;
       padding: 30px;
@@ -27,81 +25,29 @@
       margin: auto;
       box-shadow: 0 8px 32px rgba(0,0,0,0.2);
     }
-
-    h1 {
-      color: #b00020;
-      font-size: 24px;
-      text-align: center;
-      margin-top: 0;
-    }
-
-    h2 {
-      color: #3a3a3a;
-      font-size: 18px;
-      text-align: center;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 10px;
-    }
-
-    h3 {
-      color: #444;
-      background: #f0f0f0;
-      padding: 5px 15px;
-      border-left: 5px solid #b00020;
-      margin-top: 25px;
-    }
-
-    ul, ol {
-      padding-left: 20px;
-    }
-
-    li {
-      margin-bottom: 12px;
-    }
-
-    label {
-      cursor: pointer;
-      display: flex;
-      align-items: flex-start;
-    }
-
-    input[type="checkbox"] {
-      margin-top: 7px;
-      margin-right: 12px;
-      transform: scale(1.3);
-    }
-
-    input[type="checkbox"]:checked + span {
-      text-decoration: line-through;
-      color: #888;
-    }
-
-    .btn-container {
-      text-align: center;
-      margin-top: 30px;
-    }
-
-    button {
-      background-color: #b00020;
-      color: white;
-      border: none;
-      padding: 10px 20px;
+    h1 { color: #b00020; font-size: 24px; text-align: center; margin-top: 0; }
+    h2 { color: #3a3a3a; font-size: 18px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+    h3 { color: #444; background: #f0f0f0; padding: 5px 15px; border-left: 5px solid #b00020; margin-top: 25px; }
+    ul, ol { padding-left: 20px; }
+    li { margin-bottom: 12px; }
+    label { cursor: pointer; display: flex; align-items: flex-start; }
+    input[type="checkbox"] { margin-top: 7px; margin-right: 12px; transform: scale(1.3); }
+    input[type="checkbox"]:checked + span { text-decoration: line-through; color: #888; }
+    
+    .btn-container { text-align: center; margin-top: 30px; margin-bottom: 30px; }
+    button { background-color: #b00020; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-size: 16px; }
+    
+    /* 課表圖片樣式 */
+    .schedule-img {
+      width: 100%;
+      max-width: 550px;
+      display: block;
+      margin: 15px auto;
+      border: 1px solid #ccc;
       border-radius: 5px;
-      cursor: pointer;
-      font-size: 16px;
-      transition: background 0.3s;
     }
 
-    button:hover {
-      background-color: #7f0000;
-    }
-
-    .footer-note {
-      font-size: 0.8em;
-      color: #666;
-      text-align: center;
-      margin-top: 20px;
-    }
+    .footer-note { font-size: 0.8em; color: #888; text-align: center; margin-top: 20px; border-top: 1px dashed #ccc; padding-top: 10px; }
   </style>
 </head>
 
@@ -110,74 +56,55 @@
   <h1>法鼓山 11408 台中福田班</h1>
   <h2>第6堂「體驗法鼓山」行前確認清單</h2>
 
- <h3>📌 課程提醒事項</h3>
-<ol>
-  <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
+  <h3>📌 課程提醒事項</h3>
+  <ol>
+    <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
+    <li><strong>集合時間：</strong>
+      <ul>
+        <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
+        <li><strong style="color:red;">第 2 車</strong>：AM 5:10（寶雲寺）/ AM 5:40（豐原全國加油站）</li>
+      </ul>
+    </li>
+    <li><strong>用餐資訊：</strong> 提供早餐、午齋、藥石。容器請貼姓名，<strong>嚴禁玻璃/雙層/內層材質</strong>。</li>
+  </ol>
 
-  <li>
-    <strong>集合時間：</strong>
-    <ul>
-      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）</li>
-      <li>
-        <strong style="color:red;">第 2 車</strong>（寶雲寺）：
-        AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
-      </li>
-      <li>
-        <strong style="color:red;">第 2 車</strong>（豐 原）：
-        AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    <strong>用餐資訊：</strong>
-    <ul>
-      <li>提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊）</li>
-      <li>
-        <span style="color: #555;">容器規範請注意：</span>
-        <ul>
-          <li>請貼上「組別＋姓名」</li>
-          <li><strong>請勿使用雙層、有內層、玻璃材質</strong></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
   <h3>👕 服裝準備</h3>
   <ul>
-    <li><label><input type="checkbox"><span>好走路鞋子（一定要好走的鞋，會讓菩薩們參觀總本山）</span></label></li>
-    <li><label><input type="checkbox"><span>後背式背包（避免大包小包，一個包包拎了就走）</span></label></li>
+    <li><label><input type="checkbox"><span>好走路鞋子（需參觀總本山）</span></label></li>
+    <li><label><input type="checkbox"><span>後背式背包（避免大包小包）</span></label></li>
     <li><label><input type="checkbox"><span>保暖小物（毛帽、圍巾、手套、暖暖包）</span></label></li>
   </ul>
 
   <h3>🎒 學員自備物品</h3>
   <ul>
-    <li><label><input type="checkbox"><span>文具用品</span></label></li>
-    <li><label><input type="checkbox"><span>綠色學員手冊</span></label></li>
-    <li><label><input type="checkbox"><span>水杯</span></label></li>
-    <li><label><input type="checkbox"><span>環保餐具（午餐用）</span></label></li>
-    <li>
-      <label>
-        <input type="checkbox">
-        <span>藥石空便當盒（上車時統一收進整理箱，需可堆疊勿用矽膠，勿用雙層、有內層、玻璃材質）</span>
-      </label>
-    </li>
-    <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（為方便行動，不用傘）</span></label></li>
-    <li><label><input type="checkbox"><span>外套</span></label></li>
-    <li><label><input type="checkbox"><span>健保卡</span></label></li>
-    <li><label><input type="checkbox"><span>個人用藥（含暈車藥）</span></label></li>
+    <li><label><input type="checkbox"><span>文具用品、綠色學員手冊</span></label></li>
+    <li><label><input type="checkbox"><span>水杯、個人環保餐具</span></label></li>
+    <li><label><input type="checkbox"><span><strong>藥石空便當盒</strong>（需可堆疊，勿用矽膠/玻璃/雙層）</span></label></li>
+    <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（不用傘）</span></label></li>
+    <li><label><input type="checkbox"><span>外套、健保卡、個人用藥</span></label></li>
   </ul>
 
-  <h3>🚌 交通費用與私人車輛停放</h3>
+  <h3>🚌 交通與費用</h3>
   <ul>
-    <li><label><input type="checkbox"><span>未繳車資者，車上收取 800 元包含：車資、保險、飯捲及護持道場（總本山及寶雲寺）</span></label></li>
-    <li><label><input type="checkbox"><span>寶雲寺（自行處理）</span></label></li>
-    <li><label><input type="checkbox"><span>豐原全國加油站（自行處理）</span></label></li>
+    <li><label><input type="checkbox"><span>未繳車資者（800元），請於車上繳交</span></label></li>
+    <li><label><input type="checkbox"><span>確認私人車輛停放地點</span></label></li>
   </ul>
 
-  <button onclick="document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked=false)">
-    清除所有勾選
-  </button>
+  <div class="btn-container">
+    <button onclick="document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked=false)">
+      清除所有勾選重來
+    </button>
+  </div>
+
+  <hr style="border: 0; border-top: 1px double #ddd;">
+
+  <h3 style="background: #ececec;">📅 附件：當日課程表預覽</h3>
+  <img src="schedule.jpg" alt="11408寶雲班課程表" class="schedule-img">
+
+  <div class="footer-note">
+    © 法鼓山聖嚴書院福田班 課程資訊<br>
+    底圖來源：台灣旅圖 (taiwantravelmap.com)
+  </div>
 </div>
 </body>
 </html>
