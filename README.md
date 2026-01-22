@@ -17,7 +17,7 @@
       line-height: 1.8;
     }
     .card {
-      background: rgba(255, 255, 255, 0.95);
+      background: rgba(255, 255, 255, 0.5);
       backdrop-filter: blur(5px);
       border-radius: 15px;
       padding: 30px;
