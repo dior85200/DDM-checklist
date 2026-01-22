@@ -63,14 +63,14 @@
   <li>
     <strong>集合時間：</strong>
     <ul>
-      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）<strong style="color:red;">AM 5:40 出發(逾時不候)</strong></li>
+      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）<strong style="color:red;">AM 5:30 出發(逾時不候)</strong></li>
       <li>
         <strong style="color:red;">第 2 車</strong>（寶雲寺）：
-        AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→出發前往豐原</strong>）
+        AM 5:10（<strong style="color:red;">寶雲寺對面慢車道→AM 5:20 出發豐原(逾時不候)</strong>）
       </li>
       <li>
         <strong style="color:red;">第 2 車</strong>（豐 原）：
-        AM 5:40（<strong style="color:red;">豐原全國加油站出發</strong>）
+        AM 5:40（<strong style="color:red;">豐原全國加油站 AM 5:40 發車(逾時不候)</strong>）
       </li>
     </ul>
   </li>
