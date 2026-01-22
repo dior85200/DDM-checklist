@@ -2,9 +2,10 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>法鼓山體驗法鼓山－行前確認清單</title>
   <style>
-body {
+    body {
       font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
       /* 使用你提供的網頁中的底圖網址 */
       background-image: url('https://www.taiwantravelmap.com/images/attractions/714/714_1_750.jpg');
@@ -27,33 +28,79 @@ body {
       box-shadow: 0 8px 32px rgba(0,0,0,0.2);
     }
 
-    ul {
-      list-style: none;
-      padding-left: 0;
+    h1 {
+      color: #b00020;
+      font-size: 24px;
+      text-align: center;
+      margin-top: 0;
+    }
+
+    h2 {
+      color: #3a3a3a;
+      font-size: 18px;
+      text-align: center;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+    h3 {
+      color: #444;
+      background: #f0f0f0;
+      padding: 5px 15px;
+      border-left: 5px solid #b00020;
+      margin-top: 25px;
+    }
+
+    ul, ol {
+      padding-left: 20px;
     }
 
     li {
-      margin-bottom: 10px;
+      margin-bottom: 12px;
     }
 
     label {
       cursor: pointer;
+      display: flex;
+      align-items: flex-start;
     }
 
     input[type="checkbox"] {
-      margin-right: 10px;
-      transform: scale(1.2);
+      margin-top: 7px;
+      margin-right: 12px;
+      transform: scale(1.3);
     }
 
     input[type="checkbox"]:checked + span {
       text-decoration: line-through;
-      color: gray;
-      opacity: 0.7;
+      color: #888;
     }
 
-    .note {
-      color: #b00020;
-      font-weight: bold;
+    .btn-container {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    button {
+      background-color: #b00020;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background 0.3s;
+    }
+
+    button:hover {
+      background-color: #7f0000;
+    }
+
+    .footer-note {
+      font-size: 0.8em;
+      color: #666;
+      text-align: center;
+      margin-top: 20px;
     }
   </style>
 </head>
