@@ -121,6 +121,7 @@
   <hr style="border: 0; border-top: 1px double #ddd;">
 
   <h3 style="background: #ececec;">📅 附件：當日課程表預覽</h3>
+  <img src="座位圖.jpg" alt="座位圖" class="schedule-img">
   <img src="11408寶雲班課程表.jpg" alt="11408寶雲班課程表" class="schedule-img">
 
   <div class="footer-note">
