@@ -5,14 +5,27 @@
   <title>法鼓山體驗法鼓山－行前確認清單</title>
   <style>
 body {
-  background-image: url(https://www.taiwantravelmap.com/taiwantravelmap/travel-714#gallery-1);
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-}
-.card {
-  background: rgba(255, 255, 255, 0.9); /* 讓卡片半透明，透出背景 */
-}
+      font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
+      /* 使用你提供的網頁中的底圖網址 */
+      background-image: url('https://www.taiwantravelmap.com/images/attractions/714/714_1_750.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.8;
+    }
+
+    /* 增加一個毛玻璃效果的卡片容器 */
+    .card {
+      background: rgba(255, 255, 255, 0.9);
+      backdrop-filter: blur(5px);
+      border-radius: 15px;
+      padding: 30px;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    }
 
     ul {
       list-style: none;
