@@ -70,7 +70,7 @@
       </li>
       <li>
         <strong style="color:red;">第 2 車</strong>（豐 原）：
-        AM 5:40（<strong style="color:red;">豐原全國加油站 AM 5:40 發車(逾時不候)</strong>）
+        AM 5:20（<strong style="color:red;">豐原全國加油站 AM 5:40 發車(逾時不候)</strong>）
       </li>
     </ul>
   </li>
