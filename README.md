@@ -30,12 +30,18 @@ body {
 .elder {
   font-size: 1.3em;
   line-height: 2;
+  font-weight: 600; /* 整體加粗 */
 }
 
-.elder h1 { font-size: 32px; }
-.elder h2 { font-size: 24px; }
-.elder h3 { font-size: 20px; }
+.elder h1 { font-size: 34px; font-weight: 800; }
+.elder h2 { font-size: 26px; font-weight: 700; }
+.elder h3 { font-size: 22px; font-weight: 700; }
 
+.elder li,
+.elder span {
+  font-size: 1.2em;
+  font-weight: 600;
+}
 /* 標題 */
 h1 { color: #b00020; text-align: center; margin-top: 0; }
 h2 { text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
