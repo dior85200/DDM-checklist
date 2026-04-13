@@ -113,7 +113,7 @@ button {
 <div class="countdown" id="countdown"></div>
 
 <div class="btn-container">
-  <button onclick="toggleElder()">👴 長輩模式</button>
+  <button onclick="toggleElder()">👴 大字模式</button>
 </div>
 
 <h3>📌 行前提醒</h3>
