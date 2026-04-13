@@ -25,7 +25,7 @@ body {
   padding: 30px;
   max-width: 720px;
   margin: auto;
-  box-shadow: 0 10px 35px rgba(0,0,0,0.25);
+  box-shadow: 0 10px 35px rgba(0,0,0,0.15);
 }
 
 /* 長輩模式 */
