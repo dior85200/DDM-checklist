@@ -148,7 +148,8 @@ button {
 
 <h4>👕 服裝確認</h4>
 <ul>
-  <li><label><input type="checkbox"><span>已準備義工服或樸素衣褲</span></label></li>
+  <li><label><input type="checkbox"><span>已準備樸素衣褲</span></label></li>
+   <li><label><input type="checkbox"><span>已準備義工服(出坡義工)</span></label></li>
 </ul>
 
 <div class="btn-container">
