@@ -19,7 +19,7 @@ body {
 
 /* 毛玻璃卡片 */
 .card {
-  background: rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.1);
   backdrop-filter: blur(8px);
   border-radius: 18px;
   padding: 30px;
