@@ -1,133 +1,56 @@
-<115/01/25 我們回總本山上課趣>
-<html lang="zh-TW">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>法鼓山體驗法鼓山－行前確認清單</title>
-  <style>
-    body {
-      font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
-      /* 背景底圖 */
-      background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M029788458513049105/01-P74120160924010001s.jpg');
-      background-size: cover;
-      background-attachment: fixed;
-      background-position: center;
-      margin: 0;
-      padding: 20px;
-      line-height: 1.8;
-    }
-    .card {
-      background: rgba(255, 255, 255, 0.6);
-      backdrop-filter: blur(5px);
-      border-radius: 15px;
-      padding: 30px;
-      max-width: 700px;
-      margin: auto;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-    }
-    h1 { color: #b00020; font-size: 24px; text-align: center; margin-top: 0; }
-    h2 { color: #3a3a3a; font-size: 18px; text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
-    h3 { color: #444; background: #f0f0f0; padding: 5px 15px; border-left: 5px solid #b00020; margin-top: 25px; }
-    ul, ol { padding-left: 20px; }
-    li { margin-bottom: 12px; }
-    label { cursor: pointer; display: flex; align-items: flex-start; }
-    input[type="checkbox"] { margin-top: 7px; margin-right: 12px; transform: scale(1.3); }
-    input[type="checkbox"]:checked + span { text-decoration: line-through; color: #888; }
-    
-    .btn-container { text-align: center; margin-top: 30px; margin-bottom: 30px; }
-    button { background-color: #b00020; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-size: 16px; }
-    
-    /* 課表圖片樣式 */
-    .schedule-img {
-      width: 100%;
-      max-width: 550px;
-      display: block;
-      margin: 15px auto;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-    }
+<h1>法鼓山寶雲寺</h1>
+<h2>2026/04/18（六）～04/19（日）<br>「朝山・巡禮・憶師恩」活動</h2>
 
-    .footer-note { font-size: 0.8em; color: #888; text-align: center; margin-top: 20px; border-top: 1px dashed #ccc; padding-top: 10px; }
-  </style>
-</head>
-
-<body>
-<div class="card">
-  <h1>法鼓山 11408 台中福田班</h1>
-  <h2>第6堂「體驗法鼓山」行前確認清單</h2>
-
-  <h3>📌 課程提醒事項</h3>
+<h3>📌 行前提醒事項</h3>
 <ol>
-  <li>取消上山者，費用將轉為護持寶雲寺護持功德金</li>
+  <li>
+    <strong>集合時間與地點：</strong><br>
+    04/18（六）07:30 於「市議會（市政北一路）」集合，<br>
+    <strong style="color:red;">07:50 準時出發（逾時不候）</strong><br>
+    ※ 您為<strong>第2車</strong>
+  </li>
 
   <li>
-    <strong>集合時間：</strong>
+    <strong>餐食提醒：</strong><br>
+    04/18 早餐請自理；請自備湯匙或筷子（回程用餐使用）
+  </li>
+
+  <li>
+    <strong>住宿與個人用品：</strong>
     <ul>
-      <li><strong>第 1、3、4 車</strong>：AM 5:20（寶雲寺對面慢車道）<strong style="color:red;">AM 5:30 出發(逾時不候)</strong></li>
-      <li>
-        <strong style="color:red;">第 2 車</strong>（寶雲寺）：
-        AM 5:10（<strong style="color:red;">寶雲寺對面→AM 5:20 出發豐原(逾時不候)</strong>）
-      </li>
-      <li>
-        <strong style="color:red;">第 2 車</strong>（豐 原）：
-        AM 5:20（<strong style="color:red;">豐原全國加油站 AM 5:40 發車(逾時不候)</strong>）
-      </li>
+      <li>現場提供：枕頭、吹風機</li>
+      <li>請自備：睡袋、拖鞋、牙刷、牙膏、毛巾、水杯</li>
+      <li>請攜帶：雨具、<strong>白色透明雨衣（朝山必備）</strong>、遮陽帽、外套、保暖衣物及替換衣物</li>
+      <li>請務必攜帶：健保卡及個人常用藥品</li>
     </ul>
   </li>
 
   <li>
-    <strong>用餐資訊：</strong>
+    <strong>服裝建議：</strong><br>
+    請穿著義工服或輕鬆樸素衣褲
+  </li>
+
+  <li>
+    <strong>背包提醒：</strong><br>
+    請使用後背包，以利朝山與巡禮活動進行
+  </li>
+
+  <li>
+    <strong>取消與退費：</strong>
     <ul>
-      <li>提供早餐（海苔飯捲）、午齋（好收納即可）、藥石（有蓋可扣緊）</li>
-      <li>
-        <span style="color: #555;">容器規範請注意：</span>
-        <ul>
-          <li>請貼上「組別＋姓名」</li>
-          <li><strong>請勿使用雙層、有內層、玻璃材質</strong></li>
-        </ul>
-      </li>
+      <li>若因故取消行程，請於活動<strong>7天前</strong>告知，可辦理退費或轉為護持道場</li>
+      <li>取消報名之退費須憑本通知單據辦理</li>
+      <li>因需向財會單位申請，<strong>無法於當日現場領取退款</strong></li>
     </ul>
+  </li>
+
+  <li>
+    <strong>聯絡資訊：</strong><br>
+    知客處電話： (04) 2255-0665 #9
+  </li>
+
+  <li>
+    <strong>Line 群組：</strong><br>
+    完成報名後請加入 Line 群組，以利聯繫與活動資訊分享
   </li>
 </ol>
-
-  <h3>👕 服裝準備</h3>
-  <ul>
-    <li><label><input type="checkbox"><span>好走路鞋子（需參觀總本山）</span></label></li>
-    <li><label><input type="checkbox"><span>後背式背包（避免大包小包）</span></label></li>
-    <li><label><input type="checkbox"><span>保暖小物（毛帽、圍巾、手套、暖暖包）</span></label></li>
-  </ul>
-
-  <h3>🎒 學員自備物品</h3>
-  <ul>
-    <li><label><input type="checkbox"><span>文具用品、綠色學員手冊</span></label></li>
-    <li><label><input type="checkbox"><span>水杯、個人環保餐具</span></label></li>
-    <li><label><input type="checkbox"><span><strong>藥石空便當盒</strong>（需可堆疊，勿用矽膠/玻璃/雙層）</span></label></li>
-    <li><label><input type="checkbox"><span>遮陽帽／輕便雨衣（不用傘）</span></label></li>
-    <li><label><input type="checkbox"><span>外套、健保卡、個人用藥</span></label></li>
-  </ul>
-
-  <h3>🚌 交通與費用</h3>
-  <ul>
-    <li><label><input type="checkbox"><span>未繳車資者（800元），請於車上繳交</span></label></li>
-    <li><label><input type="checkbox"><span>確認私人車輛停放地點</span></label></li>
-  </ul>
-
-  <div class="btn-container">
-    <button onclick="document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked=false)">
-      清除所有勾選重來
-    </button>
-  </div>
-
-  <hr style="border: 0; border-top: 1px double #ddd;">
-
-  <h3 style="background: #ececec;">📅 附件：當日課程表預覽</h3>
-  <img src="座位圖.jpg" alt="座位圖" class="schedule-img">
-  <img src="11408寶雲班課程表.jpg" alt="11408寶雲班課程表" class="schedule-img">
-
-  <div class="footer-note">
-    © 法鼓山聖嚴書院福田班 課程資訊<br>
-    底圖來源：台灣旅圖 (taiwantravelmap.com)
-  </div>
-</div>
-</body>
-</html>
