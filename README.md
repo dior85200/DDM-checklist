@@ -135,7 +135,7 @@ button {
 
 <h4>🛏️ 住宿與個人物品</h4>
 <ul>
-  <li><label><input type="checkbox"><span>已準備  背後背包 方便朝山。</span></label></li>
+  <li><label><input type="checkbox"><span>已使用後背包 方便朝山。</span></label></li>
   <li><label><input type="checkbox"><span>已準備睡袋</span></label></li>
   <li><label><input type="checkbox"><span>已準備拖鞋</span></label></li>
   <li><label><input type="checkbox"><span>已準備牙刷、牙膏</span></label></li>
