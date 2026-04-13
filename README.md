@@ -19,13 +19,13 @@ body {
 
 /* 毛玻璃卡片 */
 .card {
-  background: rgba(255,255,255,0.25);
+  background: rgba(255,255,255,0.3);
   backdrop-filter: blur(8px);
   border-radius: 18px;
   padding: 30px;
   max-width: 720px;
   margin: auto;
-  box-shadow: 0 10px 35px rgba(0,0,0,0.15);
+  box-shadow: 0 10px 35px rgba(0,0,0,0.25);
 }
 
 /* 長輩模式 */
