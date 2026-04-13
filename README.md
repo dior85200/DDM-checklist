@@ -1,39 +1,34 @@
 <h1>法鼓山寶雲寺</h1>
 <h2>2026/04/18（六）～04/19（日）<br>「朝山・巡禮・憶師恩」活動</h2>
 
-<h3>📌 行前提醒事項</h3>
-<ol>
-  <li>
-    <strong>集合時間與地點：</strong><br>
-    04/18（六）07:30 於「市議會（市政北一路）」集合，<br>
-    <strong style="color:red;">07:50 準時出發（逾時不候）</strong><br>
-    ※ 您為<strong>第 4 車</strong>
-  </li>
+<h3>✅ 行前確認清單（請逐項確認）</h3>
 
-  <li>
-    <strong>餐食提醒：</strong><br>
-    04/18 早餐請自理；請自備湯匙或筷子（回程用餐使用）
-  </li>
+<h4>🍱 餐食準備</h4>
+<ul>
+  <li><label><input type="checkbox"><span>04/18 早餐已自行準備</span></label></li>
+  <li><label><input type="checkbox"><span>已攜帶湯匙或筷子（回程用餐使用）</span></label></li>
+</ul>
 
-  <li>
-    <strong>住宿與個人用品：</strong>
-    <ul>
-      <li>現場提供：枕頭、吹風機</li>
-      <li>請自備：睡袋、拖鞋、牙刷、牙膏、毛巾、水杯</li>
-      <li>請攜帶：雨具、<strong>白色透明雨衣（朝山必備）</strong>、遮陽帽、外套、保暖衣物及替換衣物</li>
-      <li>請務必攜帶：健保卡及個人常用藥品</li>
-    </ul>
-  </li>
+<h4>🛏️ 住宿與個人物品</h4>
+<ul>
+  <li><label><input type="checkbox"><span>已準備睡袋</span></label></li>
+  <li><label><input type="checkbox"><span>已準備拖鞋</span></label></li>
+  <li><label><input type="checkbox"><span>已準備牙刷、牙膏</span></label></li>
+  <li><label><input type="checkbox"><span>已準備毛巾</span></label></li>
+  <li><label><input type="checkbox"><span>已準備水杯</span></label></li>
+  <li><label><input type="checkbox"><span>已準備雨具</span></label></li>
+  <li><label><input type="checkbox"><span><strong>已準備白色透明雨衣（朝山必備）</strong></span></label></li>
+  <li><label><input type="checkbox"><span>已準備遮陽帽</span></label></li>
+  <li><label><input type="checkbox"><span>已準備外套與保暖衣物</span></label></li>
+  <li><label><input type="checkbox"><span>已準備替換衣物</span></label></li>
+  <li><label><input type="checkbox"><span>已攜帶健保卡</span></label></li>
+  <li><label><input type="checkbox"><span>已攜帶個人藥品</span></label></li>
+</ul>
 
-  <li>
-    <strong>服裝建議：</strong><br>
-    請穿著義工服或輕鬆樸素衣褲
-  </li>
-
-  <li>
-    <strong>背包提醒：</strong><br>
-    請使用後背包，以利朝山與巡禮活動進行
-  </li>
+<h4>👕 服裝確認</h4>
+<ul>
+  <li><label><input type="checkbox"><span>已準備義工服或樸素衣褲</span></label></li>
+</ul>
 
   <li>
     <strong>取消與退費：</strong>
