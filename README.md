@@ -1,12 +1,129 @@
-<h1>法鼓山寶雲寺</h1>
-<h2>2026/04/18（六）～04/19（日）<br>「朝山・巡禮・憶師恩」活動</h2>
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>法鼓山活動行前確認</title>
 
-<h3>✅ 行前確認清單（請逐項確認）</h3>
+<style>
+body {
+  font-family: "Noto Sans TC","Microsoft JhengHei",sans-serif;
+  background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M029788458513049105/01-P74120160924010001s.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.8;
+}
+
+/* 毛玻璃卡片 */
+.card {
+  background: rgba(255,255,255,0.65);
+  backdrop-filter: blur(8px);
+  border-radius: 18px;
+  padding: 30px;
+  max-width: 720px;
+  margin: auto;
+  box-shadow: 0 10px 35px rgba(0,0,0,0.25);
+}
+
+/* 長輩模式 */
+.elder {
+  font-size: 1.3em;
+  line-height: 2;
+}
+
+.elder h1 { font-size: 32px; }
+.elder h2 { font-size: 24px; }
+.elder h3 { font-size: 20px; }
+
+/* 標題 */
+h1 { color: #b00020; text-align: center; margin-top: 0; }
+h2 { text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+
+h3 {
+  background: #f3f3f3;
+  padding: 6px 15px;
+  border-left: 5px solid #b00020;
+  margin-top: 25px;
+}
+
+h4 { margin-top: 20px; }
+
+/* 倒數 */
+.countdown {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #b00020;
+  margin: 15px 0;
+}
+
+/* 勾選 */
+ul { padding-left: 20px; }
+li { margin-bottom: 10px; }
+
+label {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+  margin-top: 6px;
+  transform: scale(1.3);
+}
+
+input[type="checkbox"]:checked + span {
+  text-decoration: line-through;
+  color: #888;
+}
+
+/* 按鈕 */
+.btn-container {
+  text-align: center;
+  margin-top: 25px;
+}
+
+button {
+  background-color: #b00020;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card" id="mainCard">
+
+<h1>法鼓山寶雲寺</h1>
+<h2>04/18～04/19「朝山・巡禮・憶師恩」</h2>
+
+<div class="countdown" id="countdown"></div>
+
+<div class="btn-container">
+  <button onclick="toggleElder()">👴 長輩模式</button>
+</div>
+
+<h3>📌 行前提醒</h3>
+<ul>
+  <li>07:30 市議會集合，07:50 準時出發（逾時不候）</li>
+  <li>您為第 2 車</li>
+</ul>
+
+<h3>✅ 行前確認清單</h3>
 
 <h4>🍱 餐食準備</h4>
 <ul>
-  <li><label><input type="checkbox"><span>04/18 早餐已自行準備</span></label></li>
-  <li><label><input type="checkbox"><span>已攜帶湯匙或筷子（回程用餐使用）</span></label></li>
+  <li><label><input type="checkbox"><span>早餐已自行準備</span></label></li>
+  <li><label><input type="checkbox"><span>已攜帶湯匙或筷子（回程用餐）</span></label></li>
 </ul>
 
 <h4>🛏️ 住宿與個人物品</h4>
@@ -30,22 +147,45 @@
   <li><label><input type="checkbox"><span>已準備義工服或樸素衣褲</span></label></li>
 </ul>
 
-  <li>
-    <strong>取消與退費：</strong>
-    <ul>
-      <li>若因故取消行程，請於活動<strong>7天前</strong>告知，可辦理退費或轉為護持道場</li>
-      <li>取消報名之退費須憑本通知單據辦理</li>
-      <li>因需向財會單位申請，<strong>無法於當日現場領取退款</strong></li>
-    </ul>
-  </li>
+<div class="btn-container">
+  <button onclick="resetChecks()">清除勾選</button>
+</div>
 
-  <li>
-    <strong>聯絡資訊：</strong><br>
-    知客處電話： (04) 2255-0665 #9
-  </li>
+</div>
 
-  <li>
-    <strong>Line 群組：</strong><br>
-    完成報名後請加入 Line 群組，以利聯繫與活動資訊分享
-  </li>
-</ol>
+<script>
+// 倒數計時（2026/04/18 07:50）
+const target = new Date("2026-04-18T07:50:00");
+
+function updateCountdown() {
+  const now = new Date();
+  const diff = target - now;
+
+  if (diff <= 0) {
+    document.getElementById("countdown").innerHTML = "🚍 已出發";
+    return;
+  }
+
+  const h = Math.floor(diff / (1000 * 60 * 60));
+  const m = Math.floor((diff / (1000 * 60)) % 60);
+  const s = Math.floor((diff / 1000) % 60);
+
+  document.getElementById("countdown").innerHTML =
+    `⏰ 距離出發還有：${h} 小時 ${m} 分 ${s} 秒`;
+}
+
+setInterval(updateCountdown, 1000);
+
+// 長輩模式切換
+function toggleElder() {
+  document.getElementById("mainCard").classList.toggle("elder");
+}
+
+// 清除勾選
+function resetChecks() {
+  document.querySelectorAll("input[type=checkbox]").forEach(cb => cb.checked=false);
+}
+</script>
+
+</body>
+</html>
