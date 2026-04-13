@@ -152,7 +152,7 @@ button {
 </div>
 
 <script>
-// 倒數計時（2026/04/18 07:50）
+// 倒數計時（2026/04/18 06:40）
 const target = new Date("2026-04-18T06:40:00");
 
 function updateCountdown() {
