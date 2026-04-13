@@ -129,7 +129,7 @@ button {
 
 <h4>🍱 餐食準備</h4>
 <ul>
-  <li><label><input type="checkbox"><span>早餐已自行準備</span></label></li>
+  <li><label><input type="checkbox"><span>早齋需自理(車上不提供)</span></label></li>
   <li><label><input type="checkbox"><span>已攜帶湯匙或筷子(回程藥石用)(★不必帶便當盒）</span></label></li>
 </ul>
 
