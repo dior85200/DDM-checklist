@@ -8,7 +8,7 @@
 <style>
 body {
   font-family: "Noto Sans TC","Microsoft JhengHei",sans-serif;
-  background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M029788458513049105/01-P74120160924010001s.jpg');
+  background-image: url('https://fagushan.ddm.org.tw/files/file_pool/1/0M005733797053262001/P75420150204010005s2.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
