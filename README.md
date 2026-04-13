@@ -118,7 +118,10 @@ button {
 
 <h3>📌 行前提醒</h3>
 <ul>
-  <li>06:40 市議會集合，07:00 準時出發（逾時不候）</li>
+<li>
+  <span style="color:red; font-weight:bold;">06:40</span> 市議會集合，
+  <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
+</li>
   <li>您為第4車</li>
 </ul>
 
