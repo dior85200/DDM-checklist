@@ -7,7 +7,7 @@
     <strong>集合時間與地點：</strong><br>
     04/18（六）07:30 於「市議會（市政北一路）」集合，<br>
     <strong style="color:red;">07:50 準時出發（逾時不候）</strong><br>
-    ※ 您為<strong>第2車</strong>
+    ※ 您為<strong>第 4 車</strong>
   </li>
 
   <li>
