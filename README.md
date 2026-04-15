@@ -213,6 +213,3 @@ function resetChecks() {
   document.querySelectorAll("input[type=checkbox]").forEach(cb => cb.checked=false);
 }
 </script>
-
-</body>
-</html>
