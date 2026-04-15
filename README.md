@@ -123,6 +123,7 @@ button {
   <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
 </li>
   <li>您為第4車</li>
+  <li>請儘量精簡行李，用「後背包」背行李</li>
 </ul>
 
 <h3>✅ 行前確認清單</h3>
