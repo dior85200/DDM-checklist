@@ -141,7 +141,7 @@ button {
   <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
 </li>
 <li>您為第4車</li>
-<li>請儘量精簡行李，4/19朝山可用輕便後背包利於走路</li>
+<li>請用後背包利於走路參訪</li>
 </ul>
 
 <h3>✅ 行前確認清單</h3>
