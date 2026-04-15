@@ -1,4 +1,4 @@
-<朝山之路>
+<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
@@ -23,14 +23,13 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 18px;
   box-shadow: 0 10px 35px rgba(0,0,0,0.25);
-}: 0 10px 35px rgba(0,0,0,0.25);
 }
 
 /* 長輩模式 */
 .elder {
   font-size: 1.3em;
   line-height: 2;
-  font-weight: 600; /* 整體加粗 */
+  font-weight: 600;
 }
 
 .elder h1 { font-size: 34px; font-weight: 800; }
@@ -42,6 +41,7 @@ body {
   font-size: 1.2em;
   font-weight: 600;
 }
+
 /* 標題 */
 h1 { color: #b00020; text-align: center; margin-top: 0; }
 h2 { text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
@@ -100,6 +100,24 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
+
+/* 底部圖片 */
+.footer-img {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.footer-img img {
+  width: 100%;
+  max-width: 650px;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+
+.footer-img p {
+  font-size: 18px;
+  margin-top: 10px;
+}
 </style>
 </head>
 
@@ -107,7 +125,7 @@ button {
 
 <div class="card" id="mainCard">
 
-<h1>法鼓山寶雲寺   朝山菩薩第四車專用</h1>
+<h1>法鼓山寶雲寺 朝山菩薩第四車專用</h1>
 <h2>04/18～04/19「朝山・巡禮・憶師恩」</h2>
 
 <div class="countdown" id="countdown"></div>
@@ -122,8 +140,8 @@ button {
   <span style="color:red; font-weight:bold;">06:40</span> 市議會集合，
   <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
 </li>
-  <li>您為第4車</li>
-  <li>請儘量精簡行李，用「後背包」背行李</li>
+<li>您為第4車</li>
+<li>請儘量精簡行李，用「後背包」背行李</li>
 </ul>
 
 <h3>✅ 行前確認清單</h3>
@@ -154,7 +172,7 @@ button {
 <h4>👕 服裝確認</h4>
 <ul>
   <li><label><input type="checkbox"><span>已準備樸素衣褲</span></label></li>
-   <li><label><input type="checkbox"><span>已準備義工服(出坡義工)</span></label></li>
+  <li><label><input type="checkbox"><span>已準備義工服(出坡義工)</span></label></li>
 </ul>
 
 <div class="btn-container">
@@ -163,8 +181,14 @@ button {
 
 </div>
 
+<!-- ✅ 底部圖片 -->
+<div class="footer-img">
+  <img src="https://raw.githubusercontent.com/dior85200/DDM-checklist/main/06-%E6%9D%B1%E5%A4%BE%E4%BD%8F%E5%AE%BF%E9%A0%88%E7%9F%A52026.04.08%E7%89%8817.png">
+  <p>📍 住宿與動線示意圖</p>
+</div>
+
 <script>
-// 倒數計時（2026/04/18 06:40）
+// 倒數計時
 const target = new Date("2026-04-18T06:40:00");
 
 function updateCountdown() {
@@ -186,7 +210,7 @@ function updateCountdown() {
 
 setInterval(updateCountdown, 1000);
 
-// 長輩模式切換
+// 長輩模式
 function toggleElder() {
   document.getElementById("mainCard").classList.toggle("elder");
 }
