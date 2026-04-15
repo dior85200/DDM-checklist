@@ -141,7 +141,7 @@ button {
   <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
 </li>
 <li>您為第4車</li>
-<li>請儘量精簡行李，用「後背包」背行李</li>
+<li>請儘量精簡行李，4/19朝山可用輕便後背包利於走路</li>
 </ul>
 
 <h3>✅ 行前確認清單</h3>
@@ -154,7 +154,7 @@ button {
 
 <h4>🛏️ 住宿與個人物品</h4>
 <ul>
-  <li><label><input type="checkbox"><span>已使用後背包 方便朝山。</span></label></li>
+  <li><label><input type="checkbox"><span>已準備後背包 方便朝山。</span></label></li>
   <li><label><input type="checkbox"><span>已準備睡袋</span></label></li>
   <li><label><input type="checkbox"><span>已準備拖鞋</span></label></li>
   <li><label><input type="checkbox"><span>已準備牙刷、牙膏</span></label></li>
