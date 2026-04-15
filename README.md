@@ -179,13 +179,6 @@ button {
   <button onclick="resetChecks()">清除勾選</button>
 </div>
 
-</div>
-
-<!-- ✅ 底部圖片 -->
-<div class="footer-img">
-  <img src="https://raw.githubusercontent.com/dior85200/DDM-checklist/main/06-%E6%9D%B1%E5%A4%BE%E4%BD%8F%E5%AE%BF%E9%A0%88%E7%9F%A52026.04.08%E7%89%8817.png">
-  <p>📍 住宿與動線示意圖</p>
-</div>
 
 <script>
 // 倒數計時
