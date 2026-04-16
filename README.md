@@ -214,3 +214,8 @@ function resetChecks() {
   document.querySelectorAll("input[type=checkbox]").forEach(cb => cb.checked=false);
 }
 </script>
+<!-- 日程表 -->
+<div class="footer-img">
+  <img src="https://raw.githubusercontent.com/dior85200/DDM-checklist/main/朝山日程表.png">
+  <p>🗓️ 朝山日程表</p>
+</div>
