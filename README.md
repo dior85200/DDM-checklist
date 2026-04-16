@@ -157,6 +157,7 @@ button {
   <li><label><input type="checkbox"><span>已準備後背包 方便朝山。</span></label></li>
   <li><label><input type="checkbox"><span>已準備睡袋</span></label></li>
   <li><label><input type="checkbox"><span>已準備拖鞋</span></label></li>
+  <li><label><input type="checkbox"><span>已準備沐浴乳、洗髮精(總本山不提供)</span></label></li>
   <li><label><input type="checkbox"><span>已準備牙刷、牙膏</span></label></li>
   <li><label><input type="checkbox"><span>已準備毛巾</span></label></li>
   <li><label><input type="checkbox"><span>已準備水杯</span></label></li>
