@@ -216,6 +216,6 @@ function resetChecks() {
 </script>
 <!-- 日程表 -->
 <div class="footer-img">
-  <img src="https://raw.githubusercontent.com/dior85200/DDM-checklist/main/朝山日程表.png">
+  <img src="https://raw.githubusercontent.com/dior85200/DDM-checklist/main/朝山日程表.jpg">
   <p>🗓️ 朝山日程表</p>
 </div>
