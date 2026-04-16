@@ -141,7 +141,7 @@ button {
   <span style="color:red; font-weight:bold;">07:00</span> 準時出發（逾時不候）
 </li>
 <li>您為第4車</li>
-<li>請用後背包利於走路參訪</li>
+<li>請用後背包利於走路</li>
 </ul>
 
 <h3>✅ 行前確認清單</h3>
@@ -154,7 +154,7 @@ button {
 
 <h4>🛏️ 住宿與個人物品</h4>
 <ul>
-  <li><label><input type="checkbox"><span>已準備後背包 方便朝山。</span></label></li>
+  <li><label><input type="checkbox"><span>已準備後背包 方便朝山・巡禮。</span></label></li>
   <li><label><input type="checkbox"><span>已準備睡袋</span></label></li>
   <li><label><input type="checkbox"><span>已準備拖鞋</span></label></li>
   <li><label><input type="checkbox"><span>已準備沐浴乳、洗髮精(總本山不提供)</span></label></li>
